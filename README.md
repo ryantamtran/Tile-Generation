@@ -1,6 +1,6 @@
 # Tile-Generation
 
-Tile 1- Modified Basemap
+### Tile 1- Modified Basemap
 
 *add picture later*
 
@@ -9,7 +9,7 @@ The Modified Basemap is a simplified basemap that removes unneccesary labels suc
 - Examined Geographic Area: Seattle Washington and neighboring cities. 
 - Available Zoom Levels: 3 to 14.
 
-Tile 2 - Map Data (Seattle's Crime)
+### Tile 2 - Map Data (Seattle's Crime)
 
 *add picture later*
 
@@ -18,7 +18,7 @@ Mapped data layer showing all the crimes that were reported to the Seattle Polic
 - Examined Geographic Area: Seattle Washington and neighboring cities. 
 - Available Zoom Levels: 3 to 14.
 
-Tile 3 - tile 2 data + modified basemap
+### Tile 3 - tile 2 data + modified basemap
 
 *add picture later*
 
@@ -27,7 +27,7 @@ Combining the modified basemap from Tile 1 and the mapped data layer from Tile 2
 - Examined Geographic Area: Seattle Washington and neighboring cities. 
 - Available Zoom Levels: 3 to 14.
 
-Tile 4- idk yet
+### Tile 4- idk yet
 
 *add picture later*
 
