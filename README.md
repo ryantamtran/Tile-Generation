@@ -33,7 +33,7 @@ Combining the modified basemap from Tile 1 and the mapped data layer from Tile 2
 
 *add picture later*
 
-*add picture later*
+A map layer designed over Mapbox using the color scheme of thryroid cancer (blue, pink, and teal)
 
 - Examined Geographic Area: Seattle Washington and neighboring cities. 
 - Available Zoom Levels: 3 to 14.
